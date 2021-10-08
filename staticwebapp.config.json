@@ -6,5 +6,5 @@
       "192.168.100.0/22"
     ]
   },
-  "allowedRoles": ["authenticated"]
+  "allowedRoles": ["anonymous"]
 }
